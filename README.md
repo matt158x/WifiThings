@@ -39,3 +39,6 @@ Control device/s
 <img width="440" height="940" alt="image" src="https://github.com/user-attachments/assets/3158c4d5-755a-4a7f-8e36-506ad213e390" />
 <img width="446" height="944" alt="image" src="https://github.com/user-attachments/assets/4a946d87-a20e-47d7-b036-00e2fab5e482" />
 <img width="446" height="943" alt="image" src="https://github.com/user-attachments/assets/383cd780-6ee4-4b2d-ad8f-a2b09f56989d" />
+
+
+ESP8266 configuration - WifiThings/esp8266/config.example.h
